@@ -81,6 +81,10 @@ section p {
   margin: 0 auto;
 }
 
+.left-column p {
+  text-align: center;
+}
+
 footer {
   background-color: rgb(229, 233, 253);
   text-align: center;
